@@ -1,4 +1,4 @@
-# Customer service specialist - LinkedIn Courses
+# Customer service specialist - LinkedIn Course
 
 ## Modules
 
@@ -11,3 +11,4 @@
 1. De-Escalating Intense Situations
 1. Serve Customers through Chat and Text
 
+![image of certificate](cert-image.png)
